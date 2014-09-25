@@ -251,27 +251,27 @@
   <project path="system/su" name="CyanogenMod/android_system_su" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
   
-  <project path="device/htc/common" name="Andromadus/android_device_htc_common" remote="privategh" revision="ics"/>
-  <project path="device/htc/msm7x30-common" name="Andromadus/android_device_htc_msm7x30-common" remote="privategh" revision="ics"/>
-  <project path="device/htc/vision" name="Andromadus/android_device_htc_vision" remote="privategh" revision="ics" />
-  <project path="external/webkit" name="Andromadus/android_external_webkit" />
-  <project path="frameworks/base" name="Andromadus/android_frameworks_base" remote="privategh" revision="ics" />
-  <project path="hardware/libhardware" name="Andromadus/android_hardware_libhardware" remote="privategh" revision="ics" />
-  <project path="hardware/libhardware_legacy" name="Andromadus/android_hardware_libhardware_legacy" remote="privategh" revision="ics" />
-  <project path="hardware/msm7k" name="Andromadus/android_hardware_msm7k" remote="privategh" revision="ics"/>
-  <project path="hardware/qcom/display" name="Andromadus/android_hardware_qcom_display" remote="privategh" revision="ics" />
-  <project path="hardware/qcom/media" name="Andromadus/android_hardware_qcom_media" remote="privategh" revision="ics" />
-  <project path="kernel/htc/msm7x30" name="Andromadus/htc-kernel-msm7x30" remote="privategh" revision="android-msm-2.6.35-ics-bfs" />
-  <project path="packages/apps/Camera" name="Andromadus/android_packages_apps_Camera" />
-  <project path="packages/apps/FM" name="Andromadus/android_packages_apps_FM" />
+  <project path="device/htc/common" name="bradley-e-smith/android_device_htc_common" remote="privategh" revision="ics"/>
+  <project path="device/htc/msm7x30-common" name="bradley-e-smith/android_device_htc_msm7x30-common" remote="privategh" revision="ics"/>
+  <project path="device/htc/vision" name="bradley-e-smith/android_device_htc_vision" remote="privategh" revision="ics" />
+  <project path="external/webkit" name="bradley-e-smith/android_external_webkit" />
+  <project path="frameworks/base" name="bradley-e-smith/android_frameworks_base" remote="privategh" revision="ics" />
+  <project path="hardware/libhardware" name="bradley-e-smith/android_hardware_libhardware" remote="privategh" revision="ics" />
+  <project path="hardware/libhardware_legacy" name="bradley-e-smith/android_hardware_libhardware_legacy" remote="privategh" revision="ics" />
+  <project path="hardware/msm7k" name="bradley-e-smith/android_hardware_msm7k" remote="privategh" revision="ics"/>
+  <project path="hardware/qcom/display" name="bradley-e-smith/android_hardware_qcom_display" remote="privategh" revision="ics" />
+  <project path="hardware/qcom/media" name="bradley-e-smith/android_hardware_qcom_media" remote="privategh" revision="ics" />
+  <project path="kernel/htc/msm7x30" name="bradley-e-smith/htc-kernel-msm7x30" remote="privategh" revision="android-msm-2.6.35-ics-bfs" />
+  <project path="packages/apps/Camera" name="bradley-e-smith/android_packages_apps_Camera" />
+  <project path="packages/apps/FM" name="bradley-e-smith/android_packages_apps_FM" />
   <project path="packages/apps/GooManager" name="solarnz/GooManager_prebuilt" remote="privategh" revision="master" />
-  <project path="packages/apps/Settings" name="Andromadus/android_packages_apps_Settings" remote="privategh" revision="ics" />
-  <project path="packages/providers/ContactsProvider" name = "Andromadus/android_packages_providers_ContactsProvider" remote="privategh" revision="ics" />
-  <project path="prebuilt" name="Andromadus/android_prebuilt" remote="privategh" revision="ics" />
-  <project path="system/core" name="Andromadus/android_system_core" />
-  <project path="vendor/andromadus" name="Andromadus/android_vendor_andromadus" remote="privategh" />
-  <project path="vendor/cm" name="Andromadus/android_vendor_cm" remote="privategh" revision="ics" />
-  <project path="vendor/htc/vision" name="Andromadus/proprietary_htc_vision" remote="privategh" revision="ics"/>
+  <project path="packages/apps/Settings" name="bradley-e-smith/android_packages_apps_Settings" remote="privategh" revision="ics" />
+  <project path="packages/providers/ContactsProvider" name = "bradley-e-smith/android_packages_providers_ContactsProvider" remote="privategh" revision="ics" />
+  <project path="prebuilt" name="bradley-e-smith/android_prebuilt" remote="privategh" revision="ics" />
+  <project path="system/core" name="bradley-e-smith/android_system_core" />
+  <project path="vendor/bradley-e-smith" name="bradley-e-smith/android_vendor_bradley-e-smith" remote="privategh" />
+  <project path="vendor/cm" name="bradley-e-smith/android_vendor_cm" remote="privategh" revision="ics" />
+  <project path="vendor/htc/vision" name="bradley-e-smith/proprietary_htc_vision" remote="privategh" revision="ics"/>
 
-  <project path="android" name="Andromadus/android" remote="privategh" />
+  <project path="android" name="bradley-e-smith/android" remote="privategh" />
 </manifest>
