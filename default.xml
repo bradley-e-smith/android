@@ -269,7 +269,7 @@
   <project path="packages/providers/ContactsProvider" name = "bradley-e-smith/android_packages_providers_ContactsProvider" remote="privategh" revision="ics" />
   <project path="prebuilt" name="bradley-e-smith/android_prebuilt" remote="privategh" revision="ics" />
   <project path="system/core" name="bradley-e-smith/android_system_core" />
-  <project path="vendor/bradley-e-smith" name="bradley-e-smith/android_vendor_bradley-e-smith" remote="privategh" />
+  <project path="vendor/bradley-e-smith" name="bradley-e-smith/android_vendor_andromadus" remote="privategh" />
   <project path="vendor/cm" name="bradley-e-smith/android_vendor_cm" remote="privategh" revision="ics" />
   <project path="vendor/htc/vision" name="bradley-e-smith/proprietary_htc_vision" remote="privategh" revision="ics"/>
 
